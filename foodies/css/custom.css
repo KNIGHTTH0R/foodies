@@ -1,0 +1,53 @@
+.foodies-custom  {
+    background-color: #3a1d01;
+}
+
+.navbar-brand {
+    transform: translateX(-50%);
+    left: 50%;
+    position: absolute;
+    top: 2%;
+  }
+ 
+  
+  .navbar .navbar-brand {
+    
+    margin: 0;
+    padding: 0;
+   
+  }
+  .navbar .navbar-brand img {
+    height: 100px;
+    
+  }
+  .navbar{
+    font-size: 20px;
+  }
+ 
+  .btn-custom{
+    margin-left: 0.9ch;
+    
+  }
+
+
+
+/* Βγ΄άζει το spinner απο το input type number σε safari και chrome browser*/
+  input[type=number]::-webkit-outer-spin-button,
+  input[type=number]::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+  }
+  /* Βγ΄άζει το spinner απο το input type number σε Firefox browser*/
+  input[type=number] {
+      -moz-appearance:textfield;
+  }
+
+.menu  th {
+    text-align: center;
+}
+
+.menu table {
+    border-radius: 5px;
+    width: 50%;
+    float: none;
+}
