@@ -22,7 +22,7 @@
                 <li class="nav-item">
                     <a class="nav-link active" href="index.php">
                         <span data-feather="home"></span>
-                        View homepage</>
+                        View homepage
                 </a>
                 </li>
               <li class="nav-item">
