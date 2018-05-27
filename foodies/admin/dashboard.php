@@ -19,9 +19,15 @@
         <nav class="col-md-2 d-none d-md-block bg-light sidebar">
           <div class="sidebar-sticky">
             <ul class="nav flex-column">
+                <li class="nav-item">
+                    <a class="nav-link active" href="index.php">
+                        <span data-feather="home"></span>
+                        View homepage</>
+                </a>
+                </li>
               <li class="nav-item">
                 <a class="nav-link active" href="#viewreservations">
-                  <span data-feather="home"></span>
+                  <span data-feather="activity"></span>
                   View Reservations  <span class="sr-only">(current)</span>
                 </a>
               </li>
