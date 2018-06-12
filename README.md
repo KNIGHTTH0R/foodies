@@ -1,2 +1,2 @@
 # foodies
-Simple Table Reservation System 
+Simple Table Reservation System for restaurants 
