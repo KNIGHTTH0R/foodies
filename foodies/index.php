@@ -234,7 +234,7 @@ loggedout;
           <h2>Sweets</h2>
 
           <p>
-            <a class="btn btn-secondary" href="#"data-toggle="modal" data-target="#menusweets" role="button">menu &raquo;</a>
+            <a class="btn btn-secondary" href="#"data-toggle="modal" data-target="#menusweets" role="button">View menu &raquo;</a>
           </p>
         </div>
         <!-- /.col-lg-4 -->
